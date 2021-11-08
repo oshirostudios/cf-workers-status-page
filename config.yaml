@@ -33,7 +33,7 @@ monitors:
 
   - id: jtechsystems-com-au
     name: J-Tech Systems
-    url: 'https://jtechsystems.com.au/'
+    url: 'https://www.jtechsystems.com.au/'
     method: GET
     expectStatus: 200
     followRedirect: true
