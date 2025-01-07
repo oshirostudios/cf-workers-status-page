@@ -29,3 +29,17 @@ monitors:
     method: GET
     expectStatus: 200
     followRedirect: true
+
+  - id: dillant-com-au
+    name: Dillant
+    url: 'https://www.dillant.com.au/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+
+  - id: ozservermc-com
+    name: OzServer
+    url: 'https://www.ozservermc.com/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
